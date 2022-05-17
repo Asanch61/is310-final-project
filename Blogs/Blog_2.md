@@ -1,0 +1,9 @@
+## Culture as Data and Data Cultures 
+
+In chapter 4 “What gets counted counts” by Catherine D'Ignazio and Lauren Klein, the authors discuss how most websites still currently offer two options for gender, “male” or “female”. But this binary choice can be difficult to answer for people who do not identified as either male or female. Some companies like Facebook have expanded their options for gender, but I personally think that they did out publicity and strategic business motivations rather because they actually care. Furthermore, it was interesting when the authors started to look into past classifications such as Linnaeus’s system of binomial classification, which was really a way for elite white males to “scientifically” back their biases into the world. 
+
+On the other hand, chapter 1 “The Power Chapter, Catherine D'Ignazio and Lauren Klein discuss the power dynamics between groups. In this chapter, they focus their attention on black women. Black women have historically always been at the highest risk for racial and gender discrimniation.  They are oftentimes a group that has faced the biggest challenges in this country and as the article mentioned, due to long years of systematic racism, have faced complications during child labor and as the article mentioned are 3 times more likely to die than other white women. The article then looks into the STEAM field, and again we see that black women are disadvantaged in this field, even to other minority women such as hispanics. Overall, the article was interesting as it talks about the dynamic of power but also discusses the impact it has on those who do and the consequences it has on them.  
+
+References 
+https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/4
+https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3
